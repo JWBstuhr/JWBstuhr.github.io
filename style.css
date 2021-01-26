@@ -136,3 +136,7 @@ a {
     width: 700px;
     overflow: scroll;
 }
+.repimg {
+    border: 4px solid #bb0000;
+    width: 75%;
+}
